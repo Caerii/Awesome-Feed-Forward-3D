@@ -3,7 +3,7 @@
 [![Website](https://img.shields.io/badge/Website-ff3d--survey.github.io-blue?style=flat-square)](https://ff3d-survey.github.io/)
 [![GitHub](https://img.shields.io/badge/GitHub-ziplab%2FAwesome--Feed--Forward--3D-black?style=flat-square&logo=github)](https://github.com/ziplab/Awesome-Feed-Forward-3D)
 
-An awesome list for feed-forward 3D scene modeling, including research directions, datasets, and applications.
+An curated list for feed-forward 3D scene modeling, including research directions, datasets, and applications.
 
 | <img width="100%" src="https://ff3d-survey.github.io/assets/overview.png"> |
 |:-:|
