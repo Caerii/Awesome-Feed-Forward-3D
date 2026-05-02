@@ -103,6 +103,7 @@ An curated list for feed-forward 3D scene modeling, including research direction
 - VGGT: Visual Geometry Grounded Transformer. [[:page_facing_up: Paper](https://arxiv.org/abs/2503.11651) | [:computer: Code](https://github.com/facebookresearch/vggt)｜[:globe_with_meridians: Project Page](https://vgg-t.github.io/)]
 - iLRM: An Iterative Large 3D Reconstruction Model. [[:page_facing_up: Paper](https://arxiv.org/abs/2507.23277) | [:computer: Code](https://github.com/Gynjn/iLRM)｜[:globe_with_meridians: Project Page](https://gynjn.github.io/iLRM/)]
 - Dens3r: A Foundation Model for 3D Geometry Prediction. [[:page_facing_up: Paper](https://arxiv.org/abs/2507.16290)]
+- HunyuanWorld-Mirror: Universal 3D World Reconstruction with Any-Prior Prompting. [[:page_facing_up: Paper](https://arxiv.org/abs/2510.10726) | [:computer: Code](https://github.com/Tencent-Hunyuan/HunyuanWorld-Mirror)]
 - MoRE: 3D Visual Geometry Reconstruction Meets Mixture-of-Experts. [[:page_facing_up: Paper](https://arxiv.org/abs/2510.27234)]
 - Uni3R: Unified 3D Reconstruction and Semantic Understanding via Generalizable Gaussian Splatting from Unposed Multi-view Images. [[:page_facing_up: Paper](https://arxiv.org/abs/2508.03643)]
 - Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning. [[:page_facing_up: Paper](https://arxiv.org/abs/2602.20157)]
